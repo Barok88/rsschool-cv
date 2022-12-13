@@ -3,10 +3,11 @@
     * Tel.: +37529-181-58-83
     * email: barok88@gmail.com
     * discord: Viktar Barkouski (@barok88)
-3. About me: I'm 35. I am currently working as a 1C programmer. I want to learn Java Script and become a front-end developer
+3. About me: I am 35 years old. I come from Belarus, I live in Dzerzhinsk. In 2009 he graduated from the Minsk Radio Engineering College with a degree in software engineering. Now I am working as a programmer 1C. In the future, I would like to master the specialty of a front-end developer.
 4. My skills:
-    * HTMLS
-    * CSS
+    * 1C programming
+    * HTML, CSS basic lebel
+    * C# basic level
     * Basic algorithmization and programming skills
 5. Example code:
 ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
