@@ -12,13 +12,19 @@ html {
 }
 
 body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   font-family: 'OpenSans', sans-serif;
+  background-color: #e1e9eb;
 }
 
 .container {
+  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -46,6 +52,9 @@ body {
   color: #923737;
   text-shadow: 2px 2px 2px #2e0404;
 }
+.main{
+  margin-bottom: auto;
+}
 
 .main-container {
   display: flex;
@@ -56,7 +65,6 @@ body {
   width: 50%;
   font-size: 20px;
   color: #1b2b30;
-  background-color: #e1e9eb;
   padding-left: 10px;
 }
 
@@ -119,4 +127,29 @@ body {
 
 .section-list{
   list-style-type: circle;
+}
+
+.footer{
+  background-color: #83bcf1;
+}
+
+.container-footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+  align-items: center;
+}
+
+.rss-logo{
+  width: 100px;
+}
+
+.github-link{
+  text-decoration: none;
+  color: #1b2b30;
+}
+
+.github-link:hover{
+  color: #2e0404;
+  text-shadow: 1px 1px 1px #2e0404;
 }
