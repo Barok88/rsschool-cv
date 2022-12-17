@@ -28,7 +28,7 @@ body {
   margin: 0 auto;
 }
 
-.header{
+.header {
   background-color: #83bcf1;
 }
 
@@ -74,7 +74,7 @@ body {
   }
 }
 
-.section-profile{
+.section-profile {
   display: flex;
   justify-content: space-around;
   width: 100%;
@@ -82,11 +82,11 @@ body {
   background-color: #ebf6f7;
   padding: 5px 0;
 }
-.section-profile-title{
+.section-profile-title {
   display: flex;
   flex-direction: column;
 }
-.section-profile-name{
+.section-profile-name {
   font-size: 34px;
   font-weight: 700;
   text-transform: uppercase;
@@ -94,14 +94,14 @@ body {
   color: #33525a;
 }
 
-.section-profile-dev{
+.section-profile-dev {
   font-size: 28px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 5px;
   color: #54838f;
 }
-.section-title{
+.section-title {
   font-size: 24px;
   font-weight: 500;
   text-transform: uppercase;
@@ -109,7 +109,7 @@ body {
   color: #33525a;
 }
 
-.profile-photo{
+.profile-photo {
   width: 200px;
   height: 200px;
   border-radius: 100px;
@@ -117,15 +117,15 @@ body {
   box-shadow: 0 0 7px #666;
 }
 
-.contact-link{
+.link-cv {
   color: #162327;
 }
 
-.pre{
+.pre {
   font-size: 14px;
 }
 
-.section-list{
+.section-list {
   list-style-type: circle;
 }
 
@@ -133,23 +133,23 @@ body {
   background-color: #83bcf1;
 }
 
-.container-footer{
+.container-footer {
   display: flex;
   justify-content: space-between;
   padding: 10px 30px;
   align-items: center;
 }
 
-.rss-logo{
+.rss-logo {
   width: 100px;
 }
 
-.github-link{
+.github-link {
   text-decoration: none;
   color: #1b2b30;
 }
 
-.github-link:hover{
+.github-link:hover {
   color: #2e0404;
   text-shadow: 1px 1px 1px #2e0404;
 }

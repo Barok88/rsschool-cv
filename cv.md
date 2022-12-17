@@ -1,8 +1,10 @@
 1. Viktar Barkouski
 2. Contacts:
-    * Tel.: +37529-181-58-83
+    * Dzerghinsk, Belarus
+    * phone: +37529-181-58-83
     * email: barok88@gmail.com
     * discord: Viktar Barkouski (@barok88)
+    * GitHub: barok88
 3. About me: I am 35 years old. I come from Belarus, I live in Dzerzhinsk. In 2009 he graduated from the Minsk Radio Engineering College with a degree in software engineering. Now I am working as a programmer 1C. In the future, I would like to master the specialty of a front-end developer.
 4. My skills:
     * 1C programming
