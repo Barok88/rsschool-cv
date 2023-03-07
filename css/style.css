@@ -1,0 +1,155 @@
+@font-face {
+  font-family: OpenSans;
+   src: url("assets/fonts/OpenSans.ttf");
+ }
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'OpenSans', sans-serif;
+  background-color: #e1e9eb;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #83bcf1;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav-link:hover {
+  transition: 0.5s;
+  color: #923737;
+  text-shadow: 2px 2px 2px #2e0404;
+}
+.main{
+  margin-bottom: auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+  font-size: 20px;
+  color: #1b2b30;
+  padding-left: 10px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  text-align: center;
+  background-color: #ebf6f7;
+  padding: 5px 0;
+}
+.section-profile-title {
+  display: flex;
+  flex-direction: column;
+}
+.section-profile-name {
+  font-size: 34px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #33525a;
+}
+
+.section-profile-dev {
+  font-size: 28px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #54838f;
+}
+.section-title {
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #33525a;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 1px solid #87b8e5;
+  box-shadow: 0 0 7px #666;
+}
+
+.link-cv {
+  color: #162327;
+}
+
+.pre {
+  font-size: 14px;
+}
+
+.section-list {
+  list-style-type: circle;
+}
+
+.footer{
+  background-color: #83bcf1;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+  align-items: center;
+}
+
+.rss-logo {
+  width: 100px;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #1b2b30;
+}
+
+.github-link:hover {
+  color: #2e0404;
+  text-shadow: 1px 1px 1px #2e0404;
+}
