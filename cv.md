@@ -1,7 +1,6 @@
 1. Viktar Barkouski
 2. Contacts:
     * Dzerghinsk, Belarus
-    * phone: +37529-181-58-83
     * email: barok88@gmail.com
     * discord: Viktar Barkouski (@barok88)
     * GitHub: barok88
@@ -29,6 +28,8 @@ function validatePIN (pin) {
     return false;
 }
 ```
-6. I dont have experience in front-end development.
+6. My Projects:
+    * Plants (RS Scool Stage0 2022q4): [link](https://rolling-scopes-school.github.io/barok88-JSFEPRESCHOOL2022Q4/plants/)
+    * Momentum (RS Scool Stage0 2022q4): [link](https://rolling-scopes-school.github.io/barok88-JSFEPRESCHOOL2022Q4/momentum/)
 7. Education: Minsk Radio Engineering College
 8. English level: Beginer
