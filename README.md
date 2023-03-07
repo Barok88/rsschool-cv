@@ -1,1 +1,1 @@
-https://barok88.github.io/rsschool-cv/
+https://barok88.github.io/rsschool-cv/cv
